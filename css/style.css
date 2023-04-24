@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: 'Merriweather', serif;
+    background: #1e1e1e;
+    color: #a5d8ff;
+}
+
+/*
+#afd0d6
+#bfb6bb
+#c49799
+*/
+
+
+
